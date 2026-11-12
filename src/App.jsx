@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
-import Login from './pages/Login'
+
 import SiswaDashboard from './pages/SiswaDashboard'
 import SiswaForm from './pages/SiswaForm'
 import AdminDashboard from './pages/AdminDashboard'
