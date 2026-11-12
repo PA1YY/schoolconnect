@@ -1,5 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 
+// PASTIKAN HURUF BESAR/KECILNYA SAMA DENGAN NAMA FILE
+import Login from './pages/login'
 import SiswaDashboard from './pages/SiswaDashboard'
 import SiswaForm from './pages/SiswaForm'
 import AdminDashboard from './pages/AdminDashboard'
